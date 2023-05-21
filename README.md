@@ -1,4 +1,4 @@
-# Novu Node.js CLI app
+# **Node.js Novu CLI App**
 
 This is a command-line interface (CLI) app that allows you to interact with the Novu platform. The Novu platform is used for managing subscribers, triggering notifications, creating topics, and more. Before using the app, make sure you have initialized your project and installed the required dependencies.
 
@@ -46,4 +46,4 @@ The app provides the following options:
 
 If you encounter any issues or have any feedback regarding the app, please create a new issue in the **[GitHub repository](https://github.com/novuhq/nodejs-cli-app/issues)**.
 
-Enjoy using the Novu’s Node.js CLI app!
+For any issues or questions, please contact **[Novu support on discord](https://discord.gg/novu)** or refer to the Novu documentation for further assistance.
