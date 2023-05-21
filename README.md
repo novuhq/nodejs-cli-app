@@ -1,4 +1,4 @@
-# **Node.js Novu CLI APP**
+# **Node.js Novu CLI App**
 
 This guide provides an overview of a Node.js application that interacts with the Novu API to create subscribers and trigger notifications. Follow the instructions below to set up and run the application.
 
